@@ -1,1 +1,1 @@
-# code-academy
+# My data science projects in R
