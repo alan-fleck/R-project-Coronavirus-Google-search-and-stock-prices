@@ -5,4 +5,4 @@ This project aimed to assess the relationship between the COVID-19 pandemic awer
 This project demonstrates the following skills:
 - Data cleaning 
 - Data visualization
-- Linear Regression
+- Linear regression
